@@ -1,0 +1,4 @@
+Sample images are from Beginning PHP and MySQL E-Commerce: From Novice to Professional, 2nd edition, by Cristian Darie and Emilian Balanescu. Published by Apress, 2008.
+
+
+https://github.com/rossfion/foundationshoptheme.git
